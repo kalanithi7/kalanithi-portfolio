@@ -1,0 +1,11 @@
+body{
+    font-family: "Poppins", sans-serif;
+} 
+.banner{
+    background-image: url(workspace.jpg);
+    background-size:cover;
+    padding: 200px;
+}
+.skills-padding{
+    padding:70px;
+}
